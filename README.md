@@ -7,4 +7,5 @@
 
 ## 用户
 简单的基于http的req resp，用户的请求，会发送到rank模块的cmd通道中执行。
-![截屏2025-02-26 00.29.16.png](..%2F..%2F..%2Fvar%2Ffolders%2F1p%2Fkpklbfs107q0n83925zv9z500000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_vYvyWQ%2F%E6%88%AA%E5%B1%8F2025-02-26%2000.29.16.png)
+
+![pic.png](pic.png)
